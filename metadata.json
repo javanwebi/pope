@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix صنعت پیش اطلس — کاتالوگ قطعات صنعتی",
+  "description": "مرجع تخصصی دسته‌بندی، خانواده‌های محصول و کدهای فنی قطعات و تجهیزات صنعتی صنعت پیش اطلس متصل به پایگاه داده",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

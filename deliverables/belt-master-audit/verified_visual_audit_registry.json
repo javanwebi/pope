@@ -1,0 +1,1015 @@
+{
+  "generatedAt": "2026-11-19T10:06:35.466Z",
+  "licensePolicy": "USER_CONFIRMED_SEPARATE_FROM_TECHNICAL_VISUAL_VERIFICATION",
+  "skus": {
+    "1075": {
+      "brand": "DONGIL",
+      "profile": "BX",
+      "manufacturer": "DRB Dongil Corporation (South Korea)",
+      "familyId": "PFAM-تسمه-V-شکل-دند-DONGIL-BX-054",
+      "proposedFamilyId": "FAM-VBELT-COGGED-BX-DONGIL",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/app/applet/.playwright-cli/audit-sheets/check_dongil_bx85.jpg",
+        "url": "https://i.ebayimg.com/images/g/mFwAAOSwmsBgq7Yy/s-l1200.jpg",
+        "page": "https://www.ebay.com/itm/304008349953",
+        "visibleMarking": "DONGIL SUPER STAR REC BX-85 MADE BY DONGIL RUBBER BELT., KOREA",
+        "visualInspectionNoteFa": "تایید چشمی هم‌زمان ۵ شرط: تصویر واقعی روبه‌روی دوربین تسمه دندانه‌دار با چاپ خوانای «DONGIL SUPER STAR REC BX-85 MADE BY DONGIL RUBBER BELT., KOREA» منطبق با SKU 1075"
+      },
+      "closeup": null
+    },
+    "27843": {
+      "brand": "DONGIL",
+      "profile": "5V",
+      "manufacturer": "DRB Dongil Corporation (South Korea)",
+      "familyId": "DIRECT-27843",
+      "proposedFamilyId": "FAM-VBELT-WEDGE-5V-DONGIL",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/app/applet/.playwright-cli/audit-sheets/check_dongil_5v_1.jpg",
+        "url": "https://i.ebayimg.com/images/g/EJEAAOSwyf9gIfaf/s-l1200.jpg",
+        "page": "https://www.ebay.com/itm/124565690863",
+        "visibleMarking": "DONGIL SUPER STAR WEDGE 5V1180-SPB3000",
+        "visualInspectionNoteFa": "تایید چشمی هم‌زمان ۵ شرط: نمای روبه‌روی دوربین تسمه واقعی با چاپ خوانای «DONGIL SUPER STAR WEDGE 5V1180-SPB3000» بدون هیچ دست‌کاری منطبق با SKU 27843"
+      },
+      "closeup": {
+        "file": "/app/applet/.playwright-cli/audit-sheets/check_dongil_5v_2.jpg",
+        "url": "https://i.ebayimg.com/images/g/6HUAAOSw8-VgIfal/s-l1200.jpg",
+        "page": "https://www.ebay.com/itm/124565690863",
+        "visibleMarking": "5V1180-SPB3000 Z1E",
+        "visualInspectionNoteFa": "نمای کلوزآپ ماکروی واقعی از همان تسمه در همان آگهی فروش با بافت پارچه و کد «5V1180-SPB3000» کاملاً خوانا",
+        "sameBeltProof": "Same eBay product listing (itm/124565690863), identical diagonal wrapped-fabric weave, identical 5V1180-SPB3000 double-row print and wooden table background"
+      }
+    },
+    "32121": {
+      "brand": "OPTIBELT",
+      "profile": "PJ",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/32121/img_0.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/6f/75/d0/1702566849/optibelt-v-ribbed-belt-6pj1168rb_65633.jpeg",
+        "page": "https://allaoui.shop/optibelt-6pj-1168-rb-v-ribbed-belt",
+        "visibleMarking": "Made in Germany optibelt-RB PJ 1168 (6 Ribs)",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه ۶ شیار optibelt-RB PJ 1168"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/32121/img_2.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/c3/89/d8/1702566855/optibelt-v-ribbed-belt-6pj1168rb_65641_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-6pj-1168-rb-v-ribbed-belt",
+        "visibleMarking": "Made in Germany optibelt-RB PJ 1168 (6 Ribs)",
+        "visualInspectionNoteFa": "کلوزآپ واقعی از نوشته‌های چاپ‌شده روی همان تسمه optibelt-RB PJ 1168",
+        "sameBeltProof": "Same Allaoui product page gallery (optibelt-6pj-1168-rb-v-ribbed-belt), matching 6-rib PJ 1168 print"
+      }
+    },
+    "33016": {
+      "brand": "MEGADYNE",
+      "profile": "8M",
+      "manufacturer": "Megadyne Group — Ammega (Italy)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/33016/img_2.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/81/39/cc/1701700262/megadyne-timing-belt-1120rpp820mm_64727_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/megadyne-1120-rpp8-20mm-timing-belt",
+        "visibleMarking": "MEGADYNE ISORAN 1120 RPP8 (20mm)",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه MEGADYNE ISORAN 1120 RPP8 با عرض ۲۰ میلی‌متر"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/33016/img_4.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/09/12/9a/1701700280/megadyne-timing-belt-1120rpp820mm_64752_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/megadyne-1120-rpp8-20mm-timing-belt",
+        "visibleMarking": "MEGADYNE ISORAN 1120 RPP8 (20mm)",
+        "visualInspectionNoteFa": "کلوزآپ واقعی از نوشته‌های چاپ‌شده روی همان تسمه MEGADYNE ISORAN 1120 RPP8",
+        "sameBeltProof": "Same Allaoui product page gallery (megadyne-1120-rpp8-20mm-timing-belt), identical marking & cord edge"
+      }
+    },
+    "33042": {
+      "brand": "MEGADYNE",
+      "profile": "8M",
+      "manufacturer": "Megadyne Group — Ammega (Italy)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/33042/img_1.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/db/4e/8e/1701875785/megadyne-timing-belt-1040rpp830mm_64792_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/megadyne-1040-rpp8-30mm-timing-belt",
+        "visibleMarking": "MEGADYNE ISORAN 1040 RPP8 (30mm)",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه MEGADYNE ISORAN 1040 RPP8 با عرض ۳۰ میلی‌متر"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/33042/img_4.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/a9/49/3d/1701875786/megadyne-timing-belt-1040rpp830mm_64821_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/megadyne-1040-rpp8-30mm-timing-belt",
+        "visibleMarking": "MEGADYNE ISORAN 1040 RPP8 (30mm)",
+        "visualInspectionNoteFa": "نمای نزدیک واقعی از نوشته‌های چاپ‌شده روی همان تسمه MEGADYNE ISORAN 1040 RPP8",
+        "sameBeltProof": "Same Allaoui product page gallery (megadyne-1040-rpp8-30mm-timing-belt), identical ISORAN RPP8 stencil"
+      }
+    },
+    "33760": {
+      "brand": "OPTIBELT",
+      "profile": "PJ",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "familyId": "PFAM-تسمه-چندشیاری-OPTIBELT-PJ-113",
+      "proposedFamilyId": "FAM-RIBBED-PJ-OPTIBELT",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/33760/img_0.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/ac/49/a9/1693258332/optibelt-flat-drive-belt-3-pj10925_55468.jpeg",
+        "page": "https://allaoui.shop/optibelt-pj-1092-5-flat-drive-belt-3-5-x-1092mm-used",
+        "visibleMarking": "Made in Germany optibelt-RB PJ 1092 5A (5 Ribs)",
+        "visualInspectionNoteFa": "تایید چشمی هم‌زمان ۵ شرط: حلقه کامل روبه‌روی دوربین با چاپ خوانای «Made in Germany optibelt-RB PJ 1092» و ۵ شیار دقیق منطبق با SKU 33760"
+      },
+      "closeup": null
+    },
+    "34029": {
+      "brand": "OPTIBELT",
+      "profile": "PJ",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/34029/img_0.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/e6/4e/e9/1702566827/optibelt-v-ribbed-belt-6pj127010_65572.jpeg",
+        "page": "https://allaoui.shop/optibelt-6pj-1270-10-v-ribbed-belt",
+        "visibleMarking": "Made in Germany optibelt-RB PJ 1270 (6 Ribs)",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه شیاری optibelt-RB PJ 1270 (۶ شیار)"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/34029/img_3.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/c0/eb/47/1702566831/optibelt-v-ribbed-belt-6pj127010_65573_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-6pj-1270-10-v-ribbed-belt",
+        "visibleMarking": "Made in Germany optibelt-RB PJ 1270 (6 Ribs)",
+        "visualInspectionNoteFa": "نمای کلوزآپ واقعی از مارکینگ همان تسمه optibelt-RB PJ 1270",
+        "sameBeltProof": "Same Allaoui product page gallery (optibelt-6pj-1270-10-v-ribbed-belt), matching 6-rib PJ 1270 print"
+      }
+    },
+    "35116": {
+      "brand": "OPTIBELT",
+      "profile": "PJ",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/35116/img_3.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/89/6b/a1/1700734161/optibelt-v-ribbed-belt-pj1092_63690_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-pj-1092-v-ribbed-belt",
+        "visibleMarking": "Made in Germany optibelt-RB PJ 1092 (6 Ribs)",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه ۶ شیار optibelt-RB PJ 1092"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/35116/img_1.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/98/3e/17/1700734177/optibelt-v-ribbed-belt-pj1092_63693_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-pj-1092-v-ribbed-belt",
+        "visibleMarking": "Made in Germany optibelt-RB PJ 1092 (6 Ribs)",
+        "visualInspectionNoteFa": "نمای کلوزآپ واقعی از مارکینگ و شیارهای همان تسمه optibelt-RB PJ 1092",
+        "sameBeltProof": "Same Allaoui product page gallery (optibelt-pj-1092-v-ribbed-belt), matching 6-rib PJ 1092 print"
+      }
+    },
+    "35271": {
+      "brand": "OPTIBELT",
+      "profile": "8M",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/35271/img_3.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/c3/72/58/1701875798/optibelt-timing-belt-12808m25mm_65029_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-1280-8m-25mm-timing-belt",
+        "visibleMarking": "optibelt OMEGA 1280 8M (25mm)",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه optibelt OMEGA 1280 8M با عرض ۲۵ میلی‌متر"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/35271/img_5.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/bc/64/9d/1701875799/optibelt-timing-belt-12808m25mm_65066_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-1280-8m-25mm-timing-belt",
+        "visibleMarking": "optibelt OMEGA 1280 8M (25mm)",
+        "visualInspectionNoteFa": "نمای کلوزآپ واقعی از مارکینگ چاپ‌شده روی همان تسمه optibelt OMEGA 1280 8M",
+        "sameBeltProof": "Same Allaoui product page gallery (optibelt-1280-8m-25mm-timing-belt), identical printed stencil & 8M HTD teeth"
+      }
+    },
+    "38872": {
+      "brand": "OPTIBELT",
+      "profile": "8M",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "familyId": "PFAM-تسمه-تایمینگ-م-OPTIBELT-8M-234",
+      "proposedFamilyId": "FAM-TIMING-HTD-8M-ENDLESS-STD-OPTIBELT",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/38872/img_3.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/1e/d4/a1/1701359451/optibelt-timing-belt-htd10408m30mm_64594_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-htd-1040-8m-30mm-timing-belt",
+        "visibleMarking": "Optibelt HTD 1040 8 M (30mm)",
+        "visualInspectionNoteFa": "تایید چشمی هم‌زمان ۵ شرط: چاپ ۵ سطری کاملاً خوانای «Optibelt HTD 1040 8 M» روبه‌روی دوربین با عرض ۳۰ میلی‌متر منطبق با SKU 38872"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/38872/img_5.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/43/91/32/1701359456/optibelt-timing-belt-htd10408m30mm_64609_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-htd-1040-8m-30mm-timing-belt",
+        "visibleMarking": "Optibelt HTD 1040 8 M (30mm)",
+        "visualInspectionNoteFa": "نمای نزدیک واقعی از همان تسمه Optibelt HTD 1040 8 M در همان صفحه محصول Allaoui با تطابق کامل فونت و دندانه‌ها",
+        "sameBeltProof": "Same Allaoui product page gallery (optibelt-htd-1040-8m-30mm-timing-belt), identical 5-row Optibelt HTD 1040 8 M print & black zip-tie bundle"
+      }
+    },
+    "39130": {
+      "brand": "OPTIBELT",
+      "profile": "L",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/39130/img_0.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/22/f1/ac/1704377164/optibelt-timing-belt-zr285l20_66752.jpeg",
+        "page": "https://allaoui.shop/optibelt-zr-285-l-20-timing-belt",
+        "visibleMarking": "optibelt-ZR 285 L 075",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه optibelt-ZR 285 L 075 با نوشته خوانا"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/39130/img_2.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/63/4a/64/1704377166/optibelt-timing-belt-zr285l20_66797_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-zr-285-l-20-timing-belt",
+        "visibleMarking": "optibelt-ZR 285 L 075",
+        "visualInspectionNoteFa": "کلوزآپ واقعی از مارکینگ همان تسمه optibelt-ZR 285 L 075",
+        "sameBeltProof": "Same Allaoui product page gallery (optibelt-zr-285-l-20-timing-belt), matching ZR 285 L print"
+      }
+    },
+    "53283": {
+      "brand": "OPTIBELT",
+      "profile": "H",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/53283/img_0.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/a9/91/2c/1703084758/optibelt-toothed-belt-360h20_65942.jpeg",
+        "page": "https://allaoui.shop/optibelt-360-h-20-toothed-belt",
+        "visibleMarking": "optibelt-ZR 360 H 100",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه optibelt-ZR 360 H 100 با نوشته واقعی خوانا"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/53283/img_2.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/f7/a8/73/1703084766/optibelt-toothed-belt-360h20_65944_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-360-h-20-toothed-belt",
+        "visibleMarking": "optibelt-ZR 360 H 100",
+        "visualInspectionNoteFa": "کلوزآپ ماکروی واضح از مارکینگ چاپ‌شده روی همان تسمه optibelt-ZR 360 H 100",
+        "sameBeltProof": "Same Allaoui product page gallery (optibelt-360-h-20-toothed-belt), identical printed marking & tooth profile"
+      }
+    },
+    "53301": {
+      "brand": "OPTIBELT",
+      "profile": "H",
+      "manufacturer": "Arntz Optibelt Group (Germany)",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "hardGate": {
+        "frontFacingMarking": true,
+        "readableWithoutAbnormalZoom": true,
+        "unmanipulatedRealPhoto": true,
+        "productIdentityMatched": true,
+        "markingMatched": true,
+        "brandMatched": true,
+        "profileMatched": true,
+        "technicalSpecsMatched": true,
+        "ocrOnly": false
+      },
+      "primary": {
+        "file": "/tmp/efe-audit/allaoui-pairs/53301/img_0.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/2a/65/02/1703084812/optibelt-timing-belt-zr1000h10025_65954.jpeg",
+        "page": "https://allaoui.shop/optibelt-zr-1000-h-100-25-timing-belt",
+        "visibleMarking": "Optibelt-ZR 1000H 100 | DO NOT CRIMP",
+        "visualInspectionNoteFa": "نمای کامل روبه‌روی دوربین تسمه Optibelt-ZR 1000H 100 با مارکینگ خوانا و بدون دست‌کاری"
+      },
+      "closeup": {
+        "file": "/tmp/efe-audit/allaoui-pairs/53301/img_1.jpg",
+        "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/8f/f0/ce/1703084820/optibelt-timing-belt-zr1000h10025_65955_dtlprdimg.jpeg",
+        "page": "https://allaoui.shop/optibelt-zr-1000-h-100-25-timing-belt",
+        "visibleMarking": "Optibelt-ZR 1000H 100 | DO NOT CRIMP",
+        "visualInspectionNoteFa": "نمای کلوزآپ واقعی از همان تسمه Optibelt-ZR 1000H 100 در گالری رسمی محصول",
+        "sameBeltProof": "Same Allaoui product page gallery (optibelt-zr-1000-h-100-25-timing-belt), matching printed font, kerning & belt surface texture"
+      }
+    }
+  },
+  "families": {
+    "PFAM-تسمه-تایمینگ-ذ-OPTIBELT-H-212": {
+      "familyId": "PFAM-تسمه-تایمینگ-ذ-OPTIBELT-H-212",
+      "familyName": "تسمه تایمینگ ذوزنقه‌ای اینچی یک‌طرفه پروفیل H (آستین برش‌نخورده) — برند Optibelt",
+      "brand": "OPTIBELT",
+      "profile": "H",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-H-212/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/7e/f7/42/1683128111/optibelt-toothed-belt-450h_40182.jpeg",
+          "page": "https://allaoui.shop/optibelt-450-h-toothed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 450 H Toothed Belt (نمای 1 از 4)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-H-212/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/97/5a/c5/1683128113/optibelt-toothed-belt-450h_40186_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-450-h-toothed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 450 H Toothed Belt (نمای 2 از 4)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-H-212/img_2.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/47/8f/f3/1683128114/optibelt-toothed-belt-450h_40190_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-450-h-toothed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 450 H Toothed Belt (نمای 3 از 4)"
+        },
+        {
+          "slotIndex": 4,
+          "slot": "04-closeup",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-H-212/img_4.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/f2/b7/ff/1701258370/optibelt-toothed-belt-zr1000h09_64216.jpeg",
+          "page": "https://allaoui.shop/optibelt-zr-1000-h-09-toothed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt ZR-1000-H-09 Toothed Belt (نمای 4 از 4)"
+        }
+      ]
+    },
+    "PFAM-تسمه-تایمینگ-ذ-OPTIBELT-XL-214": {
+      "familyId": "PFAM-تسمه-تایمینگ-ذ-OPTIBELT-XL-214",
+      "familyName": "تسمه تایمینگ ذوزنقه‌ای اینچی یک‌طرفه پروفیل XL (آستین برش‌نخورده) — برند Optibelt",
+      "brand": "OPTIBELT",
+      "profile": "XL",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-XL-214/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/c2/40/11/1700734123/optibelt-toothed-belt-210xl03_63701.jpeg",
+          "page": "https://allaoui.shop/optibelt-210-xl-03-toothed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 210-XL-03 Toothed Belt (نمای 1 از 4)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-XL-214/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/82/63/cb/1700734134/optibelt-toothed-belt-210xl03_63703_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-210-xl-03-toothed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 210-XL-03 Toothed Belt (نمای 2 از 4)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-XL-214/img_2.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/3f/ab/38/1700734144/optibelt-toothed-belt-210xl03_63705_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-210-xl-03-toothed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 210-XL-03 Toothed Belt (نمای 3 از 4)"
+        },
+        {
+          "slotIndex": 4,
+          "slot": "04-closeup",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-XL-214/img_3.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/94/e3/09/1700734128/optibelt-toothed-belt-210xl03_63702_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-210-xl-03-toothed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 210-XL-03 Toothed Belt (نمای 4 از 4)"
+        }
+      ]
+    },
+    "PFAM-تسمه-V-شکل-کلا-OPTIBELT-Z-258": {
+      "familyId": "PFAM-تسمه-V-شکل-کلا-OPTIBELT-Z-258",
+      "familyName": "تسمه V شکل کلاسیک پروفیل Z — برند Optibelt",
+      "brand": "OPTIBELT",
+      "profile": "Z",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-V-___-___-OPTIBELT-Z-258/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/d1/02/65/1700733335/optibelt-v-belt-10x1225z4812_63643.jpeg",
+          "page": "https://allaoui.shop/optibelt-10x1225-z-48-1-2-v-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 10x1225-Z-48 1/2 V-Belt (نمای 1 از 4)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-V-___-___-OPTIBELT-Z-258/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/4c/9d/b1/1700733356/optibelt-v-belt-10x1225z4812_63647_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-10x1225-z-48-1-2-v-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 10x1225-Z-48 1/2 V-Belt (نمای 2 از 4)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-V-___-___-OPTIBELT-Z-258/img_2.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/f6/12/46/1700733361/optibelt-v-belt-10x1225z4812_63648_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-10x1225-z-48-1-2-v-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 10x1225-Z-48 1/2 V-Belt (نمای 3 از 4)"
+        },
+        {
+          "slotIndex": 4,
+          "slot": "04-closeup",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-V-___-___-OPTIBELT-Z-258/img_3.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/d1/81/c8/1700733341/optibelt-v-belt-10x1225z4812_63644_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-10x1225-z-48-1-2-v-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt 10x1225-Z-48 1/2 V-Belt (نمای 4 از 4)"
+        }
+      ]
+    },
+    "PFAM-تسمه-چندشیاری-OPTIBELT-PK-261": {
+      "familyId": "PFAM-تسمه-چندشیاری-OPTIBELT-PK-261",
+      "familyName": "تسمه چندشیاری (Poly-V Belt) پروفیل PK — برند Optibelt",
+      "brand": "OPTIBELT",
+      "profile": "PK",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-________-OPTIBELT-PK-261/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/a4/2c/3b/1702566705/optibelt-v-ribbed-belt-pk128530_65563.jpeg",
+          "page": "https://allaoui.shop/optibelt-pk-1285-30-v-ribbed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt PK-1285-30 V-ribbed Belt (نمای 1 از 4)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-________-OPTIBELT-PK-261/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/cb/aa/0a/1702566719/optibelt-v-ribbed-belt-pk128530_65566_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-pk-1285-30-v-ribbed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt PK-1285-30 V-ribbed Belt (نمای 2 از 4)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-________-OPTIBELT-PK-261/img_2.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/97/8b/96/1702566710/optibelt-v-ribbed-belt-pk128530_65564_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-pk-1285-30-v-ribbed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt PK-1285-30 V-ribbed Belt (نمای 3 از 4)"
+        },
+        {
+          "slotIndex": 4,
+          "slot": "04-closeup",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-________-OPTIBELT-PK-261/img_3.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/68/94/7f/1702566724/optibelt-v-ribbed-belt-pk128530_65567_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-pk-1285-30-v-ribbed-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt PK-1285-30 V-ribbed Belt (نمای 4 از 4)"
+        }
+      ]
+    },
+    "PFAM-تسمه-تایمینگ-م-MEGADYNE-T5-285": {
+      "familyId": "PFAM-تسمه-تایمینگ-م-MEGADYNE-T5-285",
+      "familyName": "تسمه تایمینگ متریک پروفیل T5 با روکش APL / چمفر — برند Megadyne",
+      "brand": "MEGADYNE",
+      "profile": "T5",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-T5-285/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/d1/08/50/1704191445/megadyne-timing-belt-t545510_66507.jpeg",
+          "page": "https://allaoui.shop/megadyne-t5-455-10-timing-belt-used",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne T5-455-10 Timing Belt (نمای 1 از 4)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-T5-285/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/f2/db/6f/1704191449/megadyne-timing-belt-t545510_66513_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-t5-455-10-timing-belt-used",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne T5-455-10 Timing Belt (نمای 2 از 4)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-T5-285/img_4.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/11/f1/40/1704198972/megadyne-timing-belt-t534030_66454.jpeg",
+          "page": "https://allaoui.shop/megadyne-t5-340-30-timing-belt-used",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne T5-340-30 Timing Belt (نمای 3 از 4)"
+        },
+        {
+          "slotIndex": 4,
+          "slot": "04-closeup",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-T5-285/img_5.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/d0/19/c6/1704198992/megadyne-timing-belt-t534030_66496_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-t5-340-30-timing-belt-used",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne T5-340-30 Timing Belt (نمای 4 از 4)"
+        }
+      ]
+    },
+    "PFAM-تسمه-تایمینگ-ذ-OPTIBELT-L-365": {
+      "familyId": "PFAM-تسمه-تایمینگ-ذ-OPTIBELT-L-365",
+      "familyName": "تسمه تایمینگ ذوزنقه‌ای اینچی یک‌طرفه پروفیل L (آستین برش‌نخورده) — برند Optibelt",
+      "brand": "OPTIBELT",
+      "profile": "L",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-L-365/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/5e/c3/a8/1703085335/optibelt-timing-belt-zr420l20mm_65985.jpeg",
+          "page": "https://allaoui.shop/optibelt-zr-420-l-20mm-timing-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt ZR-420-L-20mm Timing Belt (نمای 1 از 2)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-L-365/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/b6/44/5a/1703085339/optibelt-timing-belt-zr420l20mm_65986_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-zr-420-l-20mm-timing-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt ZR-420-L-20mm Timing Belt (نمای 2 از 2)"
+        }
+      ]
+    },
+    "PFAM-تسمه-تایمینگ-م-MEGADYNE-5M-444": {
+      "familyId": "PFAM-تسمه-تایمینگ-م-MEGADYNE-5M-444",
+      "familyName": "تسمه تایمینگ منحنی‌الخط (HTD) پروفیل 5M — برند Megadyne",
+      "brand": "MEGADYNE",
+      "profile": "5M",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-5M-444/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/84/fa/8c/1700833835/megadyne-double-toothed-belt-835rpp5_63956.jpeg",
+          "page": "https://allaoui.shop/megadyne-835-rpp5-double-toothed-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 835-RPP5 Double Toothed Belt (نمای 1 از 4)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-5M-444/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/f5/47/ea/1700833839/megadyne-double-toothed-belt-835rpp5_64014_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-835-rpp5-double-toothed-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 835-RPP5 Double Toothed Belt (نمای 2 از 4)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-5M-444/img_2.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/c3/4c/50/1700833838/megadyne-double-toothed-belt-835rpp5_63999_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-835-rpp5-double-toothed-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 835-RPP5 Double Toothed Belt (نمای 3 از 4)"
+        },
+        {
+          "slotIndex": 4,
+          "slot": "04-closeup",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-5M-444/img_4.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/b6/6b/c2/1701164040/megadyne-timing-belt-835rpp5413_64086.jpeg",
+          "page": "https://allaoui.shop/megadyne-835-rpp5-413-timing-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 835-RPP5-413 Timing Belt (نمای 4 از 4)"
+        }
+      ]
+    },
+    "PFAM-تسمه-تایمینگ-ذ-MEGADYNE-H-449": {
+      "familyId": "PFAM-تسمه-تایمینگ-ذ-MEGADYNE-H-449",
+      "familyName": "تسمه تایمینگ ذوزنقه‌ای اینچی یک‌طرفه پروفیل H (آستین برش‌نخورده) — برند Megadyne",
+      "brand": "MEGADYNE",
+      "profile": "H",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-H-449/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/b6/b7/b4/1703145044/megadyne-timing-belt-420h23_65654_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-420-h-23-timing-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 420-H-23 Timing Belt (نمای 1 از 4)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-H-449/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/c9/ac/e9/1703145048/megadyne-timing-belt-420h23_65666_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-420-h-23-timing-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 420-H-23 Timing Belt (نمای 2 از 4)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-H-449/img_2.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/29/fb/49/1703145036/megadyne-timing-belt-420h23_65640_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-420-h-23-timing-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 420-H-23 Timing Belt (نمای 3 از 4)"
+        },
+        {
+          "slotIndex": 4,
+          "slot": "04-closeup",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-H-449/img_3.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/84/b5/0f/1703145032/megadyne-timing-belt-420h23_65634_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-420-h-23-timing-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 420-H-23 Timing Belt (نمای 4 از 4)"
+        }
+      ]
+    },
+    "PFAM-تسمه-تایمینگ-م-MEGADYNE-14M-547": {
+      "familyId": "PFAM-تسمه-تایمینگ-م-MEGADYNE-14M-547",
+      "familyName": "تسمه تایمینگ منحنی‌الخط (HTD) پروفیل 14M — برند Megadyne",
+      "brand": "MEGADYNE",
+      "profile": "14M",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-14M-547/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/6e/aa/73/1701873503/megadyne-timing-belt-1778rpp14dd55mm_64889.jpeg",
+          "page": "https://allaoui.shop/megadyne-1778-rpp14-dd-55mm-double-toothed-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 1778-RPP14-DD-55mm Double Toothed Belt (نمای 1 از 3)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-14M-547/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/62/98/87/1701873512/megadyne-timing-belt-1778rpp14dd55mm_64891_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-1778-rpp14-dd-55mm-double-toothed-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 1778-RPP14-DD-55mm Double Toothed Belt (نمای 2 از 3)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-MEGADYNE-14M-547/img_2.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/a5/99/7e/1701873508/megadyne-timing-belt-1778rpp14dd55mm_64890_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/megadyne-1778-rpp14-dd-55mm-double-toothed-belt",
+          "manufacturer": "Megadyne Group — Ammega (Italy)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Megadyne 1778-RPP14-DD-55mm Double Toothed Belt (نمای 3 از 3)"
+        }
+      ]
+    },
+    "PFAM-تسمه-تایمینگ-م-OPTIBELT-T5-561": {
+      "familyId": "PFAM-تسمه-تایمینگ-م-OPTIBELT-T5-561",
+      "familyName": "تسمه تایمینگ متریک پروفیل T5 — برند Optibelt",
+      "brand": "OPTIBELT",
+      "profile": "T5",
+      "licenseStatus": "USER_CONFIRMED",
+      "visualStatus": "VERIFIED",
+      "slots": [
+        {
+          "slotIndex": 1,
+          "slot": "01-main",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-T5-561/img_0.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/01/2b/c3/1704295628/optibelt-timing-belt-zrmt539016mm_66561.jpeg",
+          "page": "https://allaoui.shop/optibelt-zrm-t5-390-16mm-timing-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt ZRM-T5-390-16mm Timing Belt (نمای 1 از 4)"
+        },
+        {
+          "slotIndex": 2,
+          "slot": "02-angle",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-T5-561/img_1.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/8c/28/f4/1704295636/optibelt-timing-belt-zrmt539016mm_66590_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-zrm-t5-390-16mm-timing-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt ZRM-T5-390-16mm Timing Belt (نمای 2 از 4)"
+        },
+        {
+          "slotIndex": 3,
+          "slot": "03-detail",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-T5-561/img_4.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/fc/52/3d/1704295646/optibelt-timing-belt-zrmt539012mm_66562.jpeg",
+          "page": "https://allaoui.shop/optibelt-zrm-t5-390-12mm-timing-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt ZRM-T5-390-12mm Timing Belt (نمای 3 از 4)"
+        },
+        {
+          "slotIndex": 4,
+          "slot": "04-closeup",
+          "file": "/tmp/efe-audit/fam-allaoui/PFAM-____-_______-_-OPTIBELT-T5-561/img_5.jpg",
+          "url": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/61/c0/4e/1704295650/optibelt-timing-belt-zrmt539012mm_66578_dtlprdimg.jpeg",
+          "page": "https://allaoui.shop/optibelt-zrm-t5-390-12mm-timing-belt",
+          "manufacturer": "Arntz Optibelt Group (Germany)",
+          "licenseStatus": "USER_CONFIRMED",
+          "visualStatus": "VERIFIED",
+          "visualInspectionNoteFa": "تایید چشمی واقعی از گالری فیزیکی محصول Optibelt ZRM-T5-390-12mm Timing Belt (نمای 4 از 4)"
+        }
+      ]
+    }
+  },
+  "auditedRejections": [
+    {
+      "sku_id": "41392",
+      "url": "serper_batch3#0",
+      "reason": "WRONG_DIMENSION_MARKING: Printed T5/545 != expected 920"
+    },
+    {
+      "sku_id": "58140",
+      "url": "serper_batch3#4",
+      "reason": "WRONG_DIMENSION_MARKING: Printed MEGADYNE T5 1380 != expected 1900"
+    },
+    {
+      "sku_id": "58121",
+      "url": "serper_batch3#6",
+      "reason": "WRONG_BRAND_AND_SIZE: Printed MPW 2 T5 440 != MEGADYNE T5 1740"
+    },
+    {
+      "sku_id": "24546",
+      "url": "serper_batch3#8",
+      "reason": "WRONG_PROFILE_AND_SIZE: Printed 5V1180-SPB3000 != SPA2000"
+    },
+    {
+      "sku_id": "40331",
+      "url": "serper_batch3#9",
+      "reason": "WRONG_PROFILE_AND_SIZE: Printed BANDO A-21 != B115"
+    },
+    {
+      "sku_id": "40329",
+      "url": "serper_batch3#11",
+      "reason": "COLLAGE_STOCK_TEMPLATE_AND_NO_MARKING"
+    },
+    {
+      "sku_id": "40360",
+      "url": "serper_batch3#17",
+      "reason": "MARKING_NOT_FACING_CAMERA_UNREADABLE"
+    },
+    {
+      "sku_id": "398",
+      "url": "serper_batch4#1",
+      "reason": "WRONG_PROFILE_AND_SIZE: Printed DONGIL BX-38 != A101"
+    },
+    {
+      "sku_id": "400",
+      "url": "serper_batch4#2",
+      "reason": "WRONG_BRAND_MARKING: Printed SQUARE 1 AUTO PARTS A-103 != DONGIL A103"
+    },
+    {
+      "sku_id": "708",
+      "url": "serper_batch4#3",
+      "reason": "MANIPULATED_IMAGE_GRAPHIC_OVERLAY: Orange circle drawn over B-44 marking"
+    },
+    {
+      "sku_id": "507",
+      "url": "serper_batch4#4",
+      "reason": "WATERMARKED_AND_WRONG_SIZE: No.57 watermark & B-50 != AX24"
+    },
+    {
+      "sku_id": "15970",
+      "url": "serper_batch4#10",
+      "reason": "WRONG_PRODUCT_BANDED_KRAFTBAND: Printed B 64 Kraftband != single B640"
+    },
+    {
+      "sku_id": "38859",
+      "url": "serper_batch4#11",
+      "reason": "HANDWRITTEN_SLEEVE_NOT_BELT_MARKING_AND_PROFILE_MISMATCH"
+    },
+    {
+      "sku_id": "37490",
+      "url": "serper_batch4#15",
+      "reason": "MARKETING_PACKAGING_GRAPHIC_NO_SIZE_MARKING"
+    },
+    {
+      "sku_id": "15898",
+      "url": "serper_batch4#17",
+      "reason": "WRONG_BELT_TYPE: Motorcycle VS belt != industrial B260"
+    }
+  ]
+}

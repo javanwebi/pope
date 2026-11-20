@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-11-18T23:15:25.513Z",
+  "manufacturers": [
+    {
+      "brandCode": "OPTIBELT",
+      "manufacturerName": "Arntz Optibelt Group (Höxter, Germany)",
+      "officialWebsite": "https://www.optibelt.com",
+      "verifiedSeriesInCatalog": [
+        "optibelt ZR (Imperial Trapezoidal Timing Belts MXL, XL, L, H, XH — ISO 5296)",
+        "optibelt OMEGA / OMEGA HP (Curvilinear HTD 3M, 5M, 8M, 14M — ISO 13050)",
+        "optibelt ALPHA TORQUE / ALPHA LINEAR (Polyurethane T2.5, T5, T10, AT5, AT10 — DIN 7721)",
+        "optibelt VB (Classical Wrapped V-Belts Z, A, B, C, D, E — DIN 2215 / ISO 4184)",
+        "optibelt SK (Narrow Wrapped Wedge Belts SPZ, SPA, SPB, SPC — DIN 7753)",
+        "optibelt SUPER XE-POWER PRO (Raw-Edge Molded Cogged Wedge Belts XPZ, XPA, XPB, XPC)",
+        "optibelt RB (Poly-V Ribbed Belts PH, PJ, PK, PL, PM — ISO 9982)"
+      ],
+      "technicalCatalogUrls": [
+        "https://www.optibelt.com/en/products/timing-belts/chloroprene/optibelt-zr/",
+        "https://www.optibelt.com/en/products/timing-belts/chloroprene/optibelt-omega/",
+        "https://www.optibelt.com/en/products/v-belts/optibelt-vb-s-c-plus/"
+      ]
+    },
+    {
+      "brandCode": "BANDO",
+      "manufacturerName": "Bando Chemical Industries, Ltd. (Kobe, Japan)",
+      "officialWebsite": "https://www.bandogrp.com / https://www.bando.de",
+      "verifiedSeriesInCatalog": [
+        "Bando Synchro-Link (Single & Double-Sided Imperial Timing Belts XL, L, H, XH, DXL, DL, DH — ISO 5296)",
+        "Bando HP-STS / HP-HTD (Super Torque Synchronous S8M, 8M, 14M)",
+        "Bando Red-S II / Power-King (Classical Wrapped V-Belts Z, A, B, C, D — ISO 4184)",
+        "Bando Power-Ace Cog / RPF (Raw-Edge Cogged V-Belts AX, BX, CX, 3VX, 5VX)",
+        "Bando Bancollan (Polyurethane Belts & Round Belting)"
+      ],
+      "technicalCatalogUrls": [
+        "https://www.bando.de/produkte/antriebsriemen/zahnriemen/",
+        "https://www.bando.de/produkte/antriebsriemen/keilriemen/",
+        "https://www.bandousa.com/products/industrial-power-transmission/"
+      ]
+    },
+    {
+      "brandCode": "MEGADYNE",
+      "manufacturerName": "Megadyne Group — Ammega (Mathi / Turin, Italy)",
+      "officialWebsite": "https://www.megadynegroup.com",
+      "verifiedSeriesInCatalog": [
+        "Megadyne ISORAN Imperial & RPP / Gold / Silver (XL, L, H, XH, DH, RPP5, RPP8, RPP14)",
+        "Megadyne MEGALINEAR & MEGAFLEX (Open-Ended & Endless Thermoplastic PU Timing Belts T5, T10, AT5, AT10, AT20 with Steel Cord & APL Cleats)",
+        "Megadyne EXTRA / OLEOSTATIC (Classical V-Belts Z, A, B, C, D, E)",
+        "Megadyne LINEA-X (Raw-Edge Cogged Narrow Wedge Belts XPZ, XPA, XPB, XPC)",
+        "Megadyne PV (Poly-V Multi-Ribbed Belts PJ, PK, PL)",
+        "Megadyne Ceramic Glaze Line Crowned Haul-Off Belts (CRC / BRB)"
+      ],
+      "technicalCatalogUrls": [
+        "https://www.megadynegroup.com/en/products/timing-belts",
+        "https://www.megadynegroup.com/en/products/v-belts"
+      ]
+    },
+    {
+      "brandCode": "SWR",
+      "manufacturerName": "SWR Europe / Industrial Power Transmission",
+      "officialWebsite": "https://www.swr-europe.com",
+      "verifiedSeriesInCatalog": [
+        "SWR Classical Wrapped V-Belts (Z, A, B, C, D, E — DIN 2215)",
+        "SWR Raw-Edge Cogged Classical & Narrow Wedge Belts (ZX, AX, BX, CX, XPZ, XPA, XPB, XPC — DIN 7753)",
+        "SWR Narrow Wedge Wrapped V-Belts (SPZ, SPA, SPB, SPC)"
+      ],
+      "technicalCatalogUrls": [
+        "DIN 2215 / DIN 7753-1 / ISO 4184 Standard Geometry Reference"
+      ]
+    },
+    {
+      "brandCode": "VOLTA",
+      "manufacturerName": "Volta Belting Technology Ltd.",
+      "officialWebsite": "https://www.volta-belting.com",
+      "verifiedSeriesInCatalog": [
+        "Volta Thermoplastic Elastomer (TPE/PU) Round & V-Belts (Smooth/Rough Green, Homogeneous & Reinforced Corded)",
+        "Volta Ceramic Glaze Line Ridge-Top / Crowned Belts (CRC)"
+      ],
+      "technicalCatalogUrls": [
+        "https://www.volta-belting.com/products/round-and-v-belts/"
+      ]
+    },
+    {
+      "brandCode": "MITSUBOSHI",
+      "manufacturerName": "Mitsuboshi Belting Ltd. (Kobe, Japan)",
+      "officialWebsite": "https://www.mitsuboshi.com",
+      "verifiedSeriesInCatalog": [
+        "Mitsuboshi Maxstar Wedge & Classical V-Belts (Z, A, B, C, SPZ, SPA, SPB)"
+      ],
+      "technicalCatalogUrls": [
+        "https://www.mitsuboshi.com/english/product/"
+      ]
+    },
+    {
+      "brandCode": "DONGIL",
+      "manufacturerName": "DRB Dongil Corporation (Busan, South Korea)",
+      "officialWebsite": "https://www.drbworld.com",
+      "verifiedSeriesInCatalog": [
+        "Dongil Super Star Classical & Cogged V-Belts (A, B, C, AX, BX)"
+      ],
+      "technicalCatalogUrls": [
+        "https://www.drbworld.com/eng/product/power_01.asp"
+      ]
+    },
+    {
+      "brandCode": "FORZA",
+      "manufacturerName": "FORZA Industrial Belting (Ceramic & Tile Machinery Line)",
+      "officialWebsite": "Industrial OEM Ceramic Tile & Glaze Line Belting",
+      "verifiedSeriesInCatalog": [
+        "FORZA AT10 / AT20 Polyurethane Timing Belts with 3APL / 6APL Ceramic Tile Transport Profiles",
+        "FORZA Classical V-Belts (A, B, C) & Welded PU Round Belts"
+      ],
+      "technicalCatalogUrls": [
+        "DIN 7721 Metric AT10/AT20 + Ceramic APL Cleat Specification"
+      ]
+    }
+  ]
+}

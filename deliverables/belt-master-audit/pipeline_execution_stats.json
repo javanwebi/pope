@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-11-19T10:14:38.438Z",
+  "licenseStatus": "USER_CONFIRMED",
+  "licenseDecoupledFromVisualVerification": true,
+  "totalRealBeltSkusInAuthoritativeDataset": 7641,
+  "preservedPreVerifiedSkus": 14,
+  "remainingTargetSkusProcessed": 7627,
+  "newVerifiedSkusFromRemaining": 4,
+  "totalVerifiedSkusOnDisk": 18,
+  "totalVerifiedPairedCloseupsOnDisk": 11,
+  "verifiedSkuIds": [
+    "1075",
+    "27843",
+    "32121",
+    "33016",
+    "33042",
+    "33760",
+    "34029",
+    "35116",
+    "35271",
+    "38082",
+    "38872",
+    "39130",
+    "41349",
+    "52009",
+    "52050",
+    "53283",
+    "53301",
+    "58357"
+  ],
+  "verifiedCloseupSkuIds": [
+    "27843",
+    "32121",
+    "33016",
+    "33042",
+    "34029",
+    "35116",
+    "35271",
+    "38872",
+    "39130",
+    "53283",
+    "53301"
+  ],
+  "downloadedImagesCount": 11,
+  "approvedPrimaryImagesCount": 0,
+  "approvedCloseupImagesCount": 11,
+  "rejectedCandidatesCount": 15,
+  "duplicateRejectedCount": 0,
+  "finalStatusBreakdownForRemaining7627": {
+    "VERIFIED_REAL_PRODUCT_IMAGE": 4,
+    "NOT_FOUND": 5595,
+    "NEEDS_MANUAL_REVIEW": 11,
+    "SOURCE_UNAVAILABLE": 2017
+  },
+  "finalStatusBreakdownForAllRealBeltSkus": {
+    "VERIFIED_REAL_PRODUCT_IMAGE": 18,
+    "NOT_FOUND": 5595,
+    "NEEDS_MANUAL_REVIEW": 11,
+    "SOURCE_UNAVAILABLE": 2017
+  }
+}

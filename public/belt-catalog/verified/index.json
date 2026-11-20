@@ -1,0 +1,907 @@
+{
+  "generatedAt": "2026-11-18T23:15:21.389Z",
+  "count": 100,
+  "assets": {
+    "imp_opti_loop": {
+      "key": "imp_opti_loop",
+      "localPublicPath": "/belt-catalog/verified/imp_opti_loop.webp",
+      "ext": ".webp",
+      "bytes": 8698,
+      "sourceUrl": "https://cdn03.plentyone.com/evlxcyoplb75/item/images/67976/full/67976_1.jpg",
+      "sourcePageUrl": "https://www.hug-technik.com/zahnriemen-540-l-075-optibelt-zr.html",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "imp_opti_cut": {
+      "key": "imp_opti_cut",
+      "localPublicPath": "/belt-catalog/verified/imp_opti_cut.webp",
+      "ext": ".webp",
+      "bytes": 9014,
+      "sourceUrl": "https://envmart.com/260262-default_xl/optibelt-l-section-rubber-timing-belt-127-mm-width-647-mm-length-68-teeth-fibreglass-cord-255-l-050.jpg",
+      "sourcePageUrl": "https://www.optibelt.com/en/products/timing-belts/chloroprene-timing-belts/optibelt-zr/",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "imp_gen_loops": {
+      "key": "imp_gen_loops",
+      "localPublicPath": "/belt-catalog/verified/imp_gen_loops.webp",
+      "ext": ".webp",
+      "bytes": 23878,
+      "sourceUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Imperial-Type-Timing-Belts.png",
+      "sourcePageUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Imperial-Type-Timing-Belts.png",
+      "manufacturer": "Industrial Distributor Catalog"
+    },
+    "imp_gen_coil": {
+      "key": "imp_gen_coil",
+      "localPublicPath": "/belt-catalog/verified/imp_gen_coil.webp",
+      "ext": ".webp",
+      "bytes": 16454,
+      "sourceUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Imperial-Type-Timing-Belts-.png",
+      "sourcePageUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Imperial-Type-Timing-Belts-.png",
+      "manufacturer": "Industrial Distributor Catalog"
+    },
+    "imp_open_roll": {
+      "key": "imp_open_roll",
+      "localPublicPath": "/belt-catalog/verified/imp_open_roll.webp",
+      "ext": ".webp",
+      "bytes": 32570,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/OPEN-ENDED-BELT.15.3-2.jpg",
+      "sourcePageUrl": "https://www.frkpower.com/product/OPEN-ENDED-BELT.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "dbl_closeup": {
+      "key": "dbl_closeup",
+      "localPublicPath": "/belt-catalog/verified/dbl_closeup.webp",
+      "ext": ".webp",
+      "bytes": 25610,
+      "sourceUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Double-Sided-Timing-Belts.png",
+      "sourcePageUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Double-Sided-Timing-Belts.png",
+      "manufacturer": "Industrial Distributor Catalog"
+    },
+    "dbl_cutaway": {
+      "key": "dbl_cutaway",
+      "localPublicPath": "/belt-catalog/verified/dbl_cutaway.webp",
+      "ext": ".webp",
+      "bytes": 66046,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/DOUBLE-SIDED-TEETH.13.3-2.JPG",
+      "sourcePageUrl": "https://www.frkpower.com/product/DOUBLE-SIDED-TEETH.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "htd_gen_sleeves": {
+      "key": "htd_gen_sleeves",
+      "localPublicPath": "/belt-catalog/verified/htd_gen_sleeves.webp",
+      "ext": ".webp",
+      "bytes": 40194,
+      "sourceUrl": "https://cgbelting.com/wp-content/uploads/2024/10/HTD-Type-Timing-Belts-copy.-.png",
+      "sourcePageUrl": "https://cgbelting.com/wp-content/uploads/2024/10/HTD-Type-Timing-Belts-copy.-.png",
+      "manufacturer": "Industrial Distributor Catalog"
+    },
+    "htd_rpp_coil": {
+      "key": "htd_rpp_coil",
+      "localPublicPath": "/belt-catalog/verified/htd_rpp_coil.webp",
+      "ext": ".webp",
+      "bytes": 17114,
+      "sourceUrl": "https://cgbelting.com/wp-content/uploads/2024/10/RPP-Type-Timing-belts-1.png",
+      "sourcePageUrl": "https://cgbelting.com/wp-content/uploads/2024/10/RPP-Type-Timing-belts-1.png",
+      "manufacturer": "Industrial Distributor Catalog"
+    },
+    "auto_loop": {
+      "key": "auto_loop",
+      "localPublicPath": "/belt-catalog/verified/auto_loop.webp",
+      "ext": ".webp",
+      "bytes": 118878,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/AUTOMOTIVE-TIMING-BELT.16.3-3.jpg",
+      "sourcePageUrl": "https://www.frkpower.com/product/AUTOMOTIVE-TIMING-BELT.html",
+      "manufacturer": "Automotive Timing Belt Catalog"
+    },
+    "auto_teeth": {
+      "key": "auto_teeth",
+      "localPublicPath": "/belt-catalog/verified/auto_teeth.webp",
+      "ext": ".webp",
+      "bytes": 32660,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/AUTOMOTIVE-TIMING-BELT.16.3-1.JPG",
+      "sourcePageUrl": "https://www.frkpower.com/product/AUTOMOTIVE-TIMING-BELT.html",
+      "manufacturer": "Automotive Timing Belt Catalog"
+    },
+    "auto_edge": {
+      "key": "auto_edge",
+      "localPublicPath": "/belt-catalog/verified/auto_edge.webp",
+      "ext": ".webp",
+      "bytes": 43196,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/AUTOMOTIVE-TIMING-BELT.16.3-2.JPG",
+      "sourcePageUrl": "https://www.frkpower.com/product/AUTOMOTIVE-TIMING-BELT.html",
+      "manufacturer": "Automotive Timing Belt Catalog"
+    },
+    "pu_at_coil": {
+      "key": "pu_at_coil",
+      "localPublicPath": "/belt-catalog/verified/pu_at_coil.webp",
+      "ext": ".webp",
+      "bytes": 21994,
+      "sourceUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Open-End-Timing-Belts.png",
+      "sourcePageUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Open-End-Timing-Belts.png",
+      "manufacturer": "Industrial Distributor Catalog"
+    },
+    "pu_paz_cut": {
+      "key": "pu_paz_cut",
+      "localPublicPath": "/belt-catalog/verified/pu_paz_cut.webp",
+      "ext": ".webp",
+      "bytes": 56970,
+      "sourceUrl": "https://www.beltingonline.com/wp-content/uploads/2025/09/breco-pu-paz-atk-belt-scaled-e1758208220972.png",
+      "sourcePageUrl": "https://www.beltingonline.com/wp-content/uploads/2025/09/breco-pu-paz-atk-belt-scaled-e1758208220972.png",
+      "manufacturer": "Breco / BeltingOnline"
+    },
+    "pu_breco_close": {
+      "key": "pu_breco_close",
+      "localPublicPath": "/belt-catalog/verified/pu_breco_close.webp",
+      "ext": ".webp",
+      "bytes": 8954,
+      "sourceUrl": "https://www.beltingonline.com/wp-content/uploads/2025/09/breco-pu-atn-belt-scaled-e1758208622655.png",
+      "sourcePageUrl": "https://www.beltingonline.com/wp-content/uploads/2025/09/breco-pu-atn-belt-scaled-e1758208622655.png",
+      "manufacturer": "Breco / BeltingOnline"
+    },
+    "pu_blue_pulley": {
+      "key": "pu_blue_pulley",
+      "localPublicPath": "/belt-catalog/verified/pu_blue_pulley.webp",
+      "ext": ".webp",
+      "bytes": 40922,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/2292/slip-free-at5-conveyor-belts-1000x600-1.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/site/assets/files/2292/slip-free-at5-conveyor-belts-1000x600-1.jpg",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "coat_red_loop": {
+      "key": "coat_red_loop",
+      "localPublicPath": "/belt-catalog/verified/coat_red_loop.webp",
+      "ext": ".webp",
+      "bytes": 43242,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/COATING-TIMING-BELT.14.3-2.jpg",
+      "sourcePageUrl": "https://www.frkpower.com/product/COATING-TIMING-BELT.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "coat_linatex_coils": {
+      "key": "coat_linatex_coils",
+      "localPublicPath": "/belt-catalog/verified/coat_linatex_coils.webp",
+      "ext": ".webp",
+      "bytes": 16188,
+      "sourceUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Linatex_Top-Coating-Timing-belts.png",
+      "sourcePageUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Linatex_Top-Coating-Timing-belts.png",
+      "manufacturer": "Industrial Distributor Catalog"
+    },
+    "coat_linatex_macro": {
+      "key": "coat_linatex_macro",
+      "localPublicPath": "/belt-catalog/verified/coat_linatex_macro.webp",
+      "ext": ".webp",
+      "bytes": 428524,
+      "sourceUrl": "https://www.beltingonline.com/wp-content/uploads/2025/04/TG-ETC-LXMR-scaled.png",
+      "sourcePageUrl": "https://www.beltingonline.com/wp-content/uploads/2025/04/TG-ETC-LXMR-scaled.png",
+      "manufacturer": "BeltingOnline Catalog"
+    },
+    "coat_beha_cut": {
+      "key": "coat_beha_cut",
+      "localPublicPath": "/belt-catalog/verified/coat_beha_cut.webp",
+      "ext": ".webp",
+      "bytes": 30148,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/2301/beschichtungen.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/site/assets/files/2301/beschichtungen.jpg",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "coat_supergrip": {
+      "key": "coat_supergrip",
+      "localPublicPath": "/belt-catalog/verified/coat_supergrip.webp",
+      "ext": ".webp",
+      "bytes": 35860,
+      "sourceUrl": "https://www.beltingonline.com/wp-content/uploads/2025/07/supergrip-T10-rotated.jpg",
+      "sourcePageUrl": "https://www.beltingonline.com/wp-content/uploads/2025/07/supergrip-T10-rotated.jpg",
+      "manufacturer": "BeltingOnline Catalog"
+    },
+    "vb_cog_macro": {
+      "key": "vb_cog_macro",
+      "localPublicPath": "/belt-catalog/verified/vb_cog_macro.webp",
+      "ext": ".webp",
+      "bytes": 94444,
+      "sourceUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Deep-Wedge-Raw-Edge-Cogged-V-belts.-.png",
+      "sourcePageUrl": "https://cgbelting.com/wp-content/uploads/2024/10/Deep-Wedge-Raw-Edge-Cogged-V-belts.-.png",
+      "manufacturer": "Industrial Distributor Catalog"
+    },
+    "vb_cog_coil": {
+      "key": "vb_cog_coil",
+      "localPublicPath": "/belt-catalog/verified/vb_cog_coil.webp",
+      "ext": ".webp",
+      "bytes": 12342,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/products-6-55.39.3-1.jpg",
+      "sourcePageUrl": "https://www.frkpower.com/product/products-6-55.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "pv_ribs_close": {
+      "key": "pv_ribs_close",
+      "localPublicPath": "/belt-catalog/verified/pv_ribs_close.webp",
+      "ext": ".webp",
+      "bytes": 15958,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/products-5-87.25.3-3.JPG",
+      "sourcePageUrl": "https://www.frkpower.com/product/products-5-87.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "pu_round_loop": {
+      "key": "pu_round_loop",
+      "localPublicPath": "/belt-catalog/verified/pu_round_loop.webp",
+      "ext": ".webp",
+      "bytes": 5562,
+      "sourceUrl": "https://www.beltingonline.com/wp-content/uploads/1970/01/volta-rpn.png",
+      "sourcePageUrl": "https://www.beltingonline.com/wp-content/uploads/1970/01/volta-rpn.png",
+      "manufacturer": "Volta Belting"
+    },
+    "pu_v_smooth": {
+      "key": "pu_v_smooth",
+      "localPublicPath": "/belt-catalog/verified/pu_v_smooth.webp",
+      "ext": ".webp",
+      "bytes": 20822,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/2039/behabelt-keilriemen.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/site/assets/files/2039/behabelt-keilriemen.jpg",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "pu_ridge_green": {
+      "key": "pu_ridge_green",
+      "localPublicPath": "/belt-catalog/verified/pu_ridge_green.webp",
+      "ext": ".webp",
+      "bytes": 16238,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/2317/behabelt-spitzkeilriemen.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/site/assets/files/2317/behabelt-spitzkeilriemen.jpg",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "pu_ridge_cut": {
+      "key": "pu_ridge_cut",
+      "localPublicPath": "/belt-catalog/verified/pu_ridge_cut.webp",
+      "ext": ".webp",
+      "bytes": 13444,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/6263/sr_pu85a_gruen_glatt_polyester_form2.560x560.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/site/assets/files/6263/sr_pu85a_gruen_glatt_polyester_form2.560x560.jpg",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "pu_ridge_blue": {
+      "key": "pu_ridge_blue",
+      "localPublicPath": "/belt-catalog/verified/pu_ridge_blue.webp",
+      "ext": ".webp",
+      "bytes": 12146,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/6259/sr_pu85a_blau_glatt_glasfaser_form1.560x560.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/site/assets/files/6259/sr_pu85a_blau_glatt_glasfaser_form1.560x560.jpg",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "pu_ridge_caliper": {
+      "key": "pu_ridge_caliper",
+      "localPublicPath": "/belt-catalog/verified/pu_ridge_caliper.webp",
+      "ext": ".webp",
+      "bytes": 50778,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/2645/spitzkeilriemen-geometrie-800x480.1300x760.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/site/assets/files/2645/spitzkeilriemen-geometrie-800x480.1300x760.jpg",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "sku_52009_real": {
+      "key": "sku_52009_real",
+      "localPublicPath": "/belt-catalog/verified/sku_52009_real.webp",
+      "ext": ".webp",
+      "bytes": 23206,
+      "sourceUrl": "https://i.ebayimg.com/images/g/xNwAAOSwVAtnVAjb/s-l1600.jpg",
+      "sourcePageUrl": "https://www.ebay.co.uk/itm/286187495140",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_52050_real": {
+      "key": "sku_52050_real",
+      "localPublicPath": "/belt-catalog/verified/sku_52050_real.webp",
+      "ext": ".webp",
+      "bytes": 17870,
+      "sourceUrl": "https://cdn03.plentyone.com/evlxcyoplb75/item/images/67976/full/67976_3.jpg",
+      "sourcePageUrl": "https://www.hug-technik.com/zahnriemen-540-l-075-optibelt-zr.html",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "pv_ph_loop": {
+      "key": "pv_ph_loop",
+      "localPublicPath": "/belt-catalog/verified/pv_ph_loop.webp",
+      "ext": ".webp",
+      "bytes": 11606,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/POLY-V-PH-PJ-PK-PL-PM.33.3-1.jpg",
+      "sourcePageUrl": "https://www.frkpower.com/product/POLY-V-PH-PJ-PK-PL-PM.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "vb_dry_wrap": {
+      "key": "vb_dry_wrap",
+      "localPublicPath": "/belt-catalog/verified/vb_dry_wrap.webp",
+      "ext": ".webp",
+      "bytes": 17390,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/products-6-20.38.1.jpg",
+      "sourcePageUrl": "https://www.frkpower.com/product/AUTOMOTIVE-TIMING-BELT.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "vb_cog_cord_cut": {
+      "key": "vb_cog_cord_cut",
+      "localPublicPath": "/belt-catalog/verified/vb_cog_cord_cut.webp",
+      "ext": ".webp",
+      "bytes": 11796,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/products-6-55.39.3-2.jpg",
+      "sourcePageUrl": "https://www.frkpower.com/product/products-6-55.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "pv_pk_back": {
+      "key": "pv_pk_back",
+      "localPublicPath": "/belt-catalog/verified/pv_pk_back.webp",
+      "ext": ".webp",
+      "bytes": 22106,
+      "sourceUrl": "https://www.frkpower.com/Uploads/pro/POLY-V-PH-PJ-PK-PL-PM.33.3-2.jpg",
+      "sourcePageUrl": "https://www.frkpower.com/product/POLY-V-PH-PJ-PK-PL-PM.html",
+      "manufacturer": "FRK Industrial Catalog"
+    },
+    "pt_cogwedge_struct": {
+      "key": "pt_cogwedge_struct",
+      "localPublicPath": "/belt-catalog/verified/pt_cogwedge_struct.webp",
+      "ext": ".webp",
+      "bytes": 18150,
+      "sourceUrl": "https://www.protorque.net/_assets/images/products/cogged-wedge-belts/cogged-wedge-belt-structure.jpg",
+      "sourcePageUrl": "https://www.protorque.net/en/products/belts/cogged-high-power-wedge-belts/",
+      "manufacturer": "Protorque Industrial Belts"
+    },
+    "bando_1400h100": {
+      "key": "bando_1400h100",
+      "localPublicPath": "/belt-catalog/verified/bando_1400h100.webp",
+      "ext": ".webp",
+      "bytes": 17932,
+      "sourceUrl": "https://www.zoro.com/static/cms/product/large/Z2u95zncpEx_.JPG",
+      "sourcePageUrl": "https://www.zoro.com/i/G4488016/",
+      "manufacturer": "Bando Chemical Industries (Japan)"
+    },
+    "sku_41349_real": {
+      "key": "sku_41349_real",
+      "localPublicPath": "/belt-catalog/verified/sku_41349_real.webp",
+      "ext": ".webp",
+      "bytes": 141624,
+      "sourceUrl": "https://i.ebayimg.com/images/g/g9QAAOSw3kRlG7s-/s-l1200.jpg",
+      "sourcePageUrl": "https://www.ebay.com/itm/266441566039",
+      "manufacturer": "Bando Chemical Industries (Japan)"
+    },
+    "pu_round_coils_main": {
+      "key": "pu_round_coils_main",
+      "localPublicPath": "/belt-catalog/verified/pu_round_coils_main.webp",
+      "ext": ".webp",
+      "bytes": 11894,
+      "sourceUrl": "https://www.polyurethaneproduct.com/wp-content/uploads/2025/07/Urethane-Round-Belts.jpg",
+      "sourcePageUrl": "https://www.polyurethaneproduct.com/urethane-round-belts/",
+      "manufacturer": "Industrial Polyurethane Belting"
+    },
+    "pu_round_curved_angle": {
+      "key": "pu_round_curved_angle",
+      "localPublicPath": "/belt-catalog/verified/pu_round_curved_angle.webp",
+      "ext": ".webp",
+      "bytes": 11640,
+      "sourceUrl": "https://www.fecconsulting.dk/images/stories/virtuemart/category/Rundremme_rundrem_rundsnor_roundbelt_pu_belt.webp",
+      "sourcePageUrl": "https://www.fecconsulting.dk/en/products/round-belts",
+      "manufacturer": "FEC Consulting Industrial Belting (Denmark)"
+    },
+    "pu_round_green_aramid_cord": {
+      "key": "pu_round_green_aramid_cord",
+      "localPublicPath": "/belt-catalog/verified/pu_round_green_aramid_cord.webp",
+      "ext": ".webp",
+      "bytes": 22976,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/5756/rr_pu85a_gruen_geraut_aramid.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/en/products/pu-belting/round-belts/",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "beha_v_green_smooth": {
+      "key": "beha_v_green_smooth",
+      "localPublicPath": "/belt-catalog/verified/beha_v_green_smooth.webp",
+      "ext": ".webp",
+      "bytes": 22944,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/5496/kr_pu85a_gruen_glatt.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/en/products/pu-belting/v-belts/",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "beha_v_green_aramid": {
+      "key": "beha_v_green_aramid",
+      "localPublicPath": "/belt-catalog/verified/beha_v_green_aramid.webp",
+      "ext": ".webp",
+      "bytes": 23122,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/5497/kr_pu85a_gruen_glatt_aramid.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/en/products/pu-belting/v-belts/",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "beha_v_beige_poly": {
+      "key": "beha_v_beige_poly",
+      "localPublicPath": "/belt-catalog/verified/beha_v_beige_poly.webp",
+      "ext": ".webp",
+      "bytes": 14812,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/5506/kr_pu95a_beige_glatt_polyester.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/en/products/pu-belting/v-belts/",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "opti_zr_270l_angle": {
+      "key": "opti_zr_270l_angle",
+      "localPublicPath": "/belt-catalog/verified/opti_zr_270l_angle.webp",
+      "ext": ".webp",
+      "bytes": 74688,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Optibelt_L_H_XH_XXH_Belts.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-timing-belts",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_zr_xl_loop": {
+      "key": "opti_zr_xl_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_zr_xl_loop.webp",
+      "ext": ".webp",
+      "bytes": 56290,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Optibelt_MXL_XL_Belts.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-timing-belts",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_omega_hp_loop": {
+      "key": "opti_omega_hp_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_omega_hp_loop.webp",
+      "ext": ".webp",
+      "bytes": 146210,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Optibelt_Omega_HP_Medium_a318cd69-2fd6-4cd8-bdd7-95449d60673a.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-omega",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_omega_1096_8m": {
+      "key": "opti_omega_1096_8m",
+      "localPublicPath": "/belt-catalog/verified/opti_omega_1096_8m.webp",
+      "ext": ".webp",
+      "bytes": 38396,
+      "sourceUrl": "https://www.fecconsulting.dk/images/stories/virtuemart/product/gummi-tandremme-htd-fra-optibelt_hl_hp_omega_timing_belt_8m.webp",
+      "sourcePageUrl": "https://www.fecconsulting.dk/en/products/timing-belts",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_omega_880_8m": {
+      "key": "opti_omega_880_8m",
+      "localPublicPath": "/belt-catalog/verified/opti_omega_880_8m.webp",
+      "ext": ".webp",
+      "bytes": 159136,
+      "sourceUrl": "https://www.fecconsulting.dk/images/stories/virtuemart/product/gummi_tandremme_htd_optibelt_hl_hp_omega_timing_belt_8m_upscayl_2x_ultrasharp.webp",
+      "sourcePageUrl": "https://www.fecconsulting.dk/en/products/timing-belts",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_vb_classic_loop": {
+      "key": "opti_vb_classic_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_vb_classic_loop.webp",
+      "ext": ".webp",
+      "bytes": 67370,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Large_Optibelt_V-Belts_b7961110-3a2f-4e5d-a340-a2ddf7f79619.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-v-belts",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_sk_spb_loop": {
+      "key": "opti_sk_spb_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_sk_spb_loop.webp",
+      "ext": ".webp",
+      "bytes": 328088,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Optibelt_SK.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-sk",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_supertx_cog_loop": {
+      "key": "opti_supertx_cog_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_supertx_cog_loop.webp",
+      "ext": ".webp",
+      "bytes": 183516,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Optibelt_Super-TX.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-super-tx",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_superxe_xpa_loop": {
+      "key": "opti_superxe_xpa_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_superxe_xpa_loop.webp",
+      "ext": ".webp",
+      "bytes": 119310,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Super_XE_Power.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-super-xe-power",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_rb_pj_coil": {
+      "key": "opti_rb_pj_coil",
+      "localPublicPath": "/belt-catalog/verified/opti_rb_pj_coil.webp",
+      "ext": ".webp",
+      "bytes": 68560,
+      "sourceUrl": "https://www.totallybelts.com/cdn/shop/files/Optibelt_Ribbed_Belt.png?width=1200",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-ribbed-belts",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_rb_pj_official": {
+      "key": "opti_rb_pj_official",
+      "localPublicPath": "/belt-catalog/verified/opti_rb_pj_official.webp",
+      "ext": ".webp",
+      "bytes": 9312,
+      "sourceUrl": "https://mediaplus3.optibelt.com/asset/picture/optibelt-keilrippenriemen-gruppenbild.jpg",
+      "sourcePageUrl": "https://www.optibelt.com/en/products/ribbed-belts/optibelt-rb/",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "fec_pj_ribs_macro": {
+      "key": "fec_pj_ribs_macro",
+      "localPublicPath": "/belt-catalog/verified/fec_pj_ribs_macro.webp",
+      "ext": ".webp",
+      "bytes": 7748,
+      "sourceUrl": "https://www.fecconsulting.dk/images/stories/virtuemart/category/Poly-v%20rem%20PJ%20profil_multi-v%20rem%20belt.webp",
+      "sourcePageUrl": "https://www.fecconsulting.dk/en/products/poly-v-belts",
+      "manufacturer": "FEC Consulting Industrial Belting (Denmark)"
+    },
+    "opti_rb_pl_wide_loop": {
+      "key": "opti_rb_pl_wide_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_rb_pl_wide_loop.webp",
+      "ext": ".webp",
+      "bytes": 76338,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Optibelt_Ribbed_Belt_Larger.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/optibelt-ribbed-belts",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "dh_loop_main": {
+      "key": "dh_loop_main",
+      "localPublicPath": "/belt-catalog/verified/dh_loop_main.webp",
+      "ext": ".webp",
+      "bytes": 140224,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Isolated_Black_Toothed_Timing_Belt_Loop.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/double-sided-timing-belts",
+      "manufacturer": "Industrial Synchronous Belting"
+    },
+    "fec_htd_rubber_loop": {
+      "key": "fec_htd_rubber_loop",
+      "localPublicPath": "/belt-catalog/verified/fec_htd_rubber_loop.webp",
+      "ext": ".webp",
+      "bytes": 90936,
+      "sourceUrl": "https://www.fecconsulting.dk/images/stories/virtuemart/product/htd_tandrem_i_gummi_timing_belt.webp",
+      "sourcePageUrl": "https://www.fecconsulting.dk/en/products/timing-belts",
+      "manufacturer": "FEC Consulting Industrial Belting (Denmark)"
+    },
+    "bando_reds_classic_loop": {
+      "key": "bando_reds_classic_loop",
+      "localPublicPath": "/belt-catalog/verified/bando_reds_classic_loop.webp",
+      "ext": ".webp",
+      "bytes": 108764,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Bando_Red-S_II_V-Belt_Loop.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/bando-v-belts",
+      "manufacturer": "Bando Chemical Industries (Japan)"
+    },
+    "mega_oleostatic_c_loop": {
+      "key": "mega_oleostatic_c_loop",
+      "localPublicPath": "/belt-catalog/verified/mega_oleostatic_c_loop.webp",
+      "ext": ".webp",
+      "bytes": 91772,
+      "sourceUrl": "https://www.totallybelts.com/cdn/shop/files/Megadyne_Belts.webp?width=1200",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/megadyne-belts",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_lineax_xpb_loop": {
+      "key": "mega_lineax_xpb_loop",
+      "localPublicPath": "/belt-catalog/verified/mega_lineax_xpb_loop.webp",
+      "ext": ".webp",
+      "bytes": 304656,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Linea-X.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/megadyne-belts",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_megalinear_t5_roll": {
+      "key": "mega_megalinear_t5_roll",
+      "localPublicPath": "/belt-catalog/verified/mega_megalinear_t5_roll.webp",
+      "ext": ".webp",
+      "bytes": 93544,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Open_Belting_PU.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/megadyne-timing-belts",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_isoran_imp_coil": {
+      "key": "mega_isoran_imp_coil",
+      "localPublicPath": "/belt-catalog/verified/mega_isoran_imp_coil.webp",
+      "ext": ".webp",
+      "bytes": 60264,
+      "sourceUrl": "https://hvhindustrial.com/storage/images/frontend_images/categories/1688982116Isoran-Imperial-%26-Imperial-DD.webp",
+      "sourcePageUrl": "https://hvhindustrial.com/category/megadyne-isoran-imperial-timing-belts",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_megasync_loop": {
+      "key": "mega_megasync_loop",
+      "localPublicPath": "/belt-catalog/verified/mega_megasync_loop.webp",
+      "ext": ".webp",
+      "bytes": 55834,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/2473/6104/files/Megadyne_MXL_Belts.png",
+      "sourcePageUrl": "https://www.totallybelts.com/collections/megadyne-timing-belts",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "sku_38082_real": {
+      "key": "sku_38082_real",
+      "localPublicPath": "/belt-catalog/verified/sku_38082_real.webp",
+      "ext": ".webp",
+      "bytes": 10898,
+      "sourceUrl": "https://pidbir.parts/imgs/dongil-rubber-belt-drb/4pk990.webp",
+      "sourcePageUrl": "https://pidbir.parts/en/dongil-rubber-belt-drb/4pk990",
+      "manufacturer": "DRB Dongil Corporation (South Korea)"
+    },
+    "sku_58357_real": {
+      "key": "sku_58357_real",
+      "localPublicPath": "/belt-catalog/verified/sku_58357_real.webp",
+      "ext": ".webp",
+      "bytes": 126732,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/64/56/74/1701271904/optibelt-timing-belt-11208m20mm_64255.jpeg",
+      "sourcePageUrl": "https://www.allaoui.shop/en/optibelt-timing-belt-1120-8m",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_35271_real": {
+      "key": "sku_35271_real",
+      "localPublicPath": "/belt-catalog/verified/sku_35271_real.webp",
+      "ext": ".webp",
+      "bytes": 160976,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/b0/65/d3/1701875797/optibelt-timing-belt-12808m25mm_64949_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-1280-8m-25mm-timing-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_32121_real": {
+      "key": "sku_32121_real",
+      "localPublicPath": "/belt-catalog/verified/sku_32121_real.webp",
+      "ext": ".webp",
+      "bytes": 121672,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/6f/75/d0/1702566849/optibelt-v-ribbed-belt-6pj1168rb_65633.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-6pj-1168-rb-v-ribbed-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_34029_real": {
+      "key": "sku_34029_real",
+      "localPublicPath": "/belt-catalog/verified/sku_34029_real.webp",
+      "ext": ".webp",
+      "bytes": 142020,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/e6/4e/e9/1702566827/optibelt-v-ribbed-belt-6pj127010_65572.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-6pj-1270-10-v-ribbed-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_35116_real": {
+      "key": "sku_35116_real",
+      "localPublicPath": "/belt-catalog/verified/sku_35116_real.webp",
+      "ext": ".webp",
+      "bytes": 141956,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/bf/7c/da/1700734172/optibelt-v-ribbed-belt-pj1092_63692_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-pj-1092-v-ribbed-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_53301_real": {
+      "key": "sku_53301_real",
+      "localPublicPath": "/belt-catalog/verified/sku_53301_real.webp",
+      "ext": ".webp",
+      "bytes": 186982,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/8f/f0/ce/1703084820/optibelt-timing-belt-zr1000h10025_65955_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-zr-1000-h-100-25-timing-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_53283_real": {
+      "key": "sku_53283_real",
+      "localPublicPath": "/belt-catalog/verified/sku_53283_real.webp",
+      "ext": ".webp",
+      "bytes": 159186,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/f7/a8/73/1703084766/optibelt-toothed-belt-360h20_65944_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-360-h-20-toothed-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_39130_real": {
+      "key": "sku_39130_real",
+      "localPublicPath": "/belt-catalog/verified/sku_39130_real.webp",
+      "ext": ".webp",
+      "bytes": 140464,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/22/f1/ac/1704377164/optibelt-timing-belt-zr285l20_66752.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-zr-285-l-20-timing-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "sku_33016_real": {
+      "key": "sku_33016_real",
+      "localPublicPath": "/belt-catalog/verified/sku_33016_real.webp",
+      "ext": ".webp",
+      "bytes": 137196,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/81/39/cc/1701700262/megadyne-timing-belt-1120rpp820mm_64727_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-1120-rpp8-20mm-timing-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "sku_33042_real": {
+      "key": "sku_33042_real",
+      "localPublicPath": "/belt-catalog/verified/sku_33042_real.webp",
+      "ext": ".webp",
+      "bytes": 162786,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/db/4e/8e/1701875785/megadyne-timing-belt-1040rpp830mm_64792_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-1040-rpp8-30mm-timing-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "opti_zr_420l_closeup": {
+      "key": "opti_zr_420l_closeup",
+      "localPublicPath": "/belt-catalog/verified/opti_zr_420l_closeup.webp",
+      "ext": ".webp",
+      "bytes": 148358,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/61/f3/0a/1703085343/optibelt-timing-belt-zr420l20mm_65984_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-zr-420-l-20mm-timing-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_omega_2000_8m_closeup": {
+      "key": "opti_omega_2000_8m_closeup",
+      "localPublicPath": "/belt-catalog/verified/opti_omega_2000_8m_closeup.webp",
+      "ext": ".webp",
+      "bytes": 224272,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/2f/6e/2f/1700832861/optibelt-timing-belt-20008m30mmhp_64062.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-2000-8m-30mm-hp-timing-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_rb_pj_610_closeup": {
+      "key": "opti_rb_pj_610_closeup",
+      "localPublicPath": "/belt-catalog/verified/opti_rb_pj_610_closeup.webp",
+      "ext": ".webp",
+      "bytes": 122322,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/12/a7/8b/1702566687/optibelt-v-ribbed-belt-8pj61020_65618_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-8pj-610-20-v-ribbed-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_zr_h_240_loop": {
+      "key": "opti_zr_h_240_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_zr_h_240_loop.webp",
+      "ext": ".webp",
+      "bytes": 117740,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/16/ca/53/1704295228/optibelt-timing-belt-zr240h25_66656.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-zr-240-h-25-timing-belt-used",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_zr_h_660_angle": {
+      "key": "opti_zr_h_660_angle",
+      "localPublicPath": "/belt-catalog/verified/opti_zr_h_660_angle.webp",
+      "ext": ".webp",
+      "bytes": 151050,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/43/dc/7e/1704295602/optibelt-timing-belt-660h40_66672_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-660-h-40-timing-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_zr_h_800_detail": {
+      "key": "opti_zr_h_800_detail",
+      "localPublicPath": "/belt-catalog/verified/opti_zr_h_800_detail.webp",
+      "ext": ".webp",
+      "bytes": 159610,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/86/2d/4e/1704295792/optibelt-timing-belt-zr800h38mm_66638_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-zr-800-h-38mm-timing-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_zr_h_1000_closeup": {
+      "key": "opti_zr_h_1000_closeup",
+      "localPublicPath": "/belt-catalog/verified/opti_zr_h_1000_closeup.webp",
+      "ext": ".webp",
+      "bytes": 400032,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/98/72/72/1704377465/optibelt-timing-belt-1000h75_66729_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-1000-h-75-timing-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "mega_8m_880_main": {
+      "key": "mega_8m_880_main",
+      "localPublicPath": "/belt-catalog/verified/mega_8m_880_main.webp",
+      "ext": ".webp",
+      "bytes": 152732,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/da/0a/14/1701700318/megadyne-timing-belt-880rpp850mm_64721.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-880-rpp8-50mm-timing-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_8m_880_angle": {
+      "key": "mega_8m_880_angle",
+      "localPublicPath": "/belt-catalog/verified/mega_8m_880_angle.webp",
+      "ext": ".webp",
+      "bytes": 164640,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/a3/97/8b/1701700323/megadyne-timing-belt-880rpp850mm_64730_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-880-rpp8-50mm-timing-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_8m_1440_detail": {
+      "key": "mega_8m_1440_detail",
+      "localPublicPath": "/belt-catalog/verified/mega_8m_1440_detail.webp",
+      "ext": ".webp",
+      "bytes": 120768,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/5f/9c/40/1700733206/megadyne-toothed-belt-1440rpp8_63731.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-1440rpp8-toothed-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_8m_1440_closeup": {
+      "key": "mega_8m_1440_closeup",
+      "localPublicPath": "/belt-catalog/verified/mega_8m_1440_closeup.webp",
+      "ext": ".webp",
+      "bytes": 120954,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/99/9b/5f/1700733222/megadyne-toothed-belt-1440rpp8_63734_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-1440rpp8-toothed-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "bando_h_1000_angle": {
+      "key": "bando_h_1000_angle",
+      "localPublicPath": "/belt-catalog/verified/bando_h_1000_angle.webp",
+      "ext": ".webp",
+      "bytes": 144426,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/ce/cd/32/1702996244/bando-timing-belt-1000h25mm_65823.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/bando-1000-h-25mm-timing-belt",
+      "manufacturer": "Bando Chemical Industries (Japan)"
+    },
+    "bando_h_700_detail": {
+      "key": "bando_h_700_detail",
+      "localPublicPath": "/belt-catalog/verified/bando_h_700_detail.webp",
+      "ext": ".webp",
+      "bytes": 196734,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/bc/74/89/1702910758/bando-timing-belt-700h50_65820.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/bando-700-h-50-timing-belt",
+      "manufacturer": "Bando Chemical Industries (Japan)"
+    },
+    "bando_h_420_closeup": {
+      "key": "bando_h_420_closeup",
+      "localPublicPath": "/belt-catalog/verified/bando_h_420_closeup.webp",
+      "ext": ".webp",
+      "bytes": 152076,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/19/fb/97/1703145053/bando-timing-belt-420h25_65635.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/bando-420-h-25-timing-belt",
+      "manufacturer": "Bando Chemical Industries (Japan)"
+    },
+    "mega_h_420_detail": {
+      "key": "mega_h_420_detail",
+      "localPublicPath": "/belt-catalog/verified/mega_h_420_detail.webp",
+      "ext": ".webp",
+      "bytes": 132078,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/8b/23/84/1703145028/megadyne-timing-belt-420h23_65629.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-420-h-23-timing-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_h_420_closeup": {
+      "key": "mega_h_420_closeup",
+      "localPublicPath": "/belt-catalog/verified/mega_h_420_closeup.webp",
+      "ext": ".webp",
+      "bytes": 124244,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/0f/4e/cc/1703145040/megadyne-timing-belt-420h23_65647_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-420-h-23-timing-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_t5_340_angle": {
+      "key": "mega_t5_340_angle",
+      "localPublicPath": "/belt-catalog/verified/mega_t5_340_angle.webp",
+      "ext": ".webp",
+      "bytes": 100846,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/d6/97/b6/1702642771/megadyne-toothed-belt-t534025_65729.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-t5-340-25-toothed-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_t5_340_detail": {
+      "key": "mega_t5_340_detail",
+      "localPublicPath": "/belt-catalog/verified/mega_t5_340_detail.webp",
+      "ext": ".webp",
+      "bytes": 96378,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/a8/a6/6d/1702642780/megadyne-toothed-belt-t534025_65766_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-t5-340-25-toothed-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "mega_t5_340_closeup": {
+      "key": "mega_t5_340_closeup",
+      "localPublicPath": "/belt-catalog/verified/mega_t5_340_closeup.webp",
+      "ext": ".webp",
+      "bytes": 105852,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/af/16/ae/1702642775/megadyne-toothed-belt-t534025_65747_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/megadyne-t5-340-25-toothed-belt",
+      "manufacturer": "Megadyne Group — Ammega (Italy)"
+    },
+    "pu_round_orange_poly_cord": {
+      "key": "pu_round_orange_poly_cord",
+      "localPublicPath": "/belt-catalog/verified/pu_round_orange_poly_cord.webp",
+      "ext": ".webp",
+      "bytes": 16458,
+      "sourceUrl": "https://www.behabelt.com/site/assets/files/5750/rr_pu80a_orange_glatt_polyester.jpg",
+      "sourcePageUrl": "https://www.behabelt.com/en/products/pu-belting/round-belts/",
+      "manufacturer": "Behabelt (Germany)"
+    },
+    "fec_pu_v_profiles_closeup": {
+      "key": "fec_pu_v_profiles_closeup",
+      "localPublicPath": "/belt-catalog/verified/fec_pu_v_profiles_closeup.webp",
+      "ext": ".webp",
+      "bytes": 7504,
+      "sourceUrl": "https://www.fecconsulting.dk/images/stories/virtuemart/category/PU%20kileremme.webp",
+      "sourcePageUrl": "https://www.fecconsulting.dk/en/products/v-belts",
+      "manufacturer": "FEC Consulting Industrial Belting (Denmark)"
+    },
+    "opti_spa_2582_loop": {
+      "key": "opti_spa_2582_loop",
+      "localPublicPath": "/belt-catalog/verified/opti_spa_2582_loop.webp",
+      "ext": ".webp",
+      "bytes": 109488,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/e4/92/39/1703063424/optibelt-v-belt-spa2582lw_65951.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-spa-2582-lw-v-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    },
+    "opti_spa_2582_macro": {
+      "key": "opti_spa_2582_macro",
+      "localPublicPath": "/belt-catalog/verified/opti_spa_2582_macro.webp",
+      "ext": ".webp",
+      "bytes": 115934,
+      "sourceUrl": "https://sw-media.fra1.cdn.digitaloceanspaces.com/prod/sw6/public/media/7e/0e/3d/1703063432/optibelt-v-belt-spa2582lw_65953_dtlprdimg.jpeg",
+      "sourcePageUrl": "https://allaoui.shop/optibelt-spa-2582-lw-v-belt",
+      "manufacturer": "Arntz Optibelt Group (Germany)"
+    }
+  },
+  "failed": []
+}
